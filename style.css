@@ -1,0 +1,42 @@
+body {
+  font: normal 15pt Arial;
+}
+
+header {
+  color: #867ae9;
+  text-align: center;
+}
+
+section {
+  background: rgb(255, 68, 0);
+  border-radius: 8px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 3px 3px 7px rgba(85, 23, 1, 0.911);
+}
+
+div {
+  text-align: center;
+  padding: 8px;
+}
+
+footer {
+  color: #ffffff;
+  text-align: center;
+  font-style: italic;
+}
+
+.tu {
+  border-radius: 8px;
+  box-shadow: 1px 1px 1px rgba(65, 23, 1, 0.911);
+  background: rgb(240, 54, 8);
+}
+.tu p {
+  font: 500 italic;
+  color: rgb(255, 255, 255);
+}
+.verificar {
+  padding: 10px;
+  width: 70px;
+}
